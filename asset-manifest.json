@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flush-game/static/css/main.2edf959a.css",
+    "main.js": "/flush-game/static/js/main.e7ed8ba4.js",
+    "static/js/787.7e84b4a3.chunk.js": "/flush-game/static/js/787.7e84b4a3.chunk.js",
+    "index.html": "/flush-game/index.html",
+    "main.2edf959a.css.map": "/flush-game/static/css/main.2edf959a.css.map",
+    "main.e7ed8ba4.js.map": "/flush-game/static/js/main.e7ed8ba4.js.map",
+    "787.7e84b4a3.chunk.js.map": "/flush-game/static/js/787.7e84b4a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2edf959a.css",
+    "static/js/main.e7ed8ba4.js"
+  ]
+}
